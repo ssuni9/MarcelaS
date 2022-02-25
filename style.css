@@ -1,0 +1,330 @@
+body{
+    background: rgb(81,36,148);
+    background: linear-gradient(0deg, rgba(81,36,148,1) 0%, rgba(0,0,0,1) 67%);
+    color: #fff;
+}
+
+nav ul li{
+    font-size: 1rem;
+    display: inline-block;
+    margin-right: 1.25rem;
+    margin-bottom: 1.25rem;
+    margin-left: 2rem;
+    padding-top: 3rem;
+    font-family: 'Poppins', sans-serif;
+    color: #cec8c8;
+    position: relative;
+    cursor: pointer;
+}
+
+.navbar img{
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+
+.frase h4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: .9rem;   
+}
+
+.frase p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: .7rem;
+    color: #CCADFA;
+}
+
+.apresentacao h3{
+    margin-left: 2rem;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5rem;
+    color: #CCADFA;
+    font-size: 2rem;
+    margin-top: 4rem;
+}
+
+hr{
+    border: 0;
+    width: 2rem;
+    margin-top: 1rem;
+    border-top: 1px solid #434343 ;
+}
+
+.apresentacao p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    margin-top: .25rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    text-align: center;
+}
+
+.formacao h2{
+    margin-top: 4rem;
+    margin-bottom: 1.25rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 1.25rem;
+    color: #CCADFA;
+    text-align: center;
+}
+
+.formacao p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    margin-top: .25rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    text-align: center;
+}
+
+.desenvolvimento h2{
+    margin-top: 1.5rem;
+    margin-bottom: 1.25rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 1.25rem;
+    color: #CCADFA;
+    text-align: center;
+}
+
+.desenvolvimento p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    margin-top: .25rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    text-align: center;
+}
+
+.ferramentas{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 4rem;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.ferramentas h1{
+    margin-bottom: 2rem;
+    color: #CCADFA;
+    font-size: 1.25rem;
+}
+
+.front{
+    border: 2px solid #CCADFA;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding-top: 1rem;
+    border-radius: 10px;
+
+}
+.front h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+}
+
+.front img{
+    width: 10%;
+    margin-top: 1rem;
+}
+
+.ux img{
+    width: 10%;
+    margin-top: 1rem;
+}
+
+.ux{
+    margin-top: 4rem;
+    padding-top: 1rem;
+    border: 2px solid #CCADFA;
+    border-radius: 10px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.ux h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+}
+
+.projetos h2{
+    margin-left: 2rem;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 1.25rem;
+    color: #CCADFA;
+}
+
+.projetos h3{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.25rem;
+}
+
+.projetos p{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 1rem;
+}
+
+.projetos img{
+    width: 80%;
+    margin-top: 1rem;
+    margin-left: 34px;
+    margin-right: 34px;
+    border-radius: 1%;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+}
+
+.more{
+    list-style: none;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+    text-align: center;
+    font-size: 0.9rem;
+    margin-top: 1rem;
+}
+
+.projetos ul li{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
+
+.contato{
+    text-align: center;
+}
+
+.contato h3{
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 1.5rem;
+}
+
+.contato ul li{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    margin-top: .25rem;
+}
+
+.contato img{
+    margin-top: 1rem;
+}
+
+.insta{
+    margin-left: 17rem;
+    position: absolute;
+    margin-top: 6rem;
+    width: 9%;
+}
+
+.linkedln{
+    margin-left: 20rem;
+    position: absolute;
+    margin-top: 6rem;
+    width: 9%;
+}
+
+.rodape{
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+    margin-top: 3em;
+    width: 100%;
+    display: inline-block;
+}
+
+.rodape ul li{
+    margin-top: .5rem;
+    margin-left: 1rem;
+}
+
+.rodape p{
+    font-size: .5rem;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.rodape img{
+    width: 5%;
+    margin-left: 80%;
+    position: absolute;
+    top: 291%;
+}
+
+@media screen and (min-width:400px){
+    .projetos img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media screen and (min-width:700px){
+    .projetos h2{
+        text-align: center;
+    }
+    
+}
+
+@media screen and (min-width:400px){
+    .insta{
+        margin-left: 80%;
+        position: absolute;
+        margin-top: 6rem;
+        width: 30px;
+    }
+    
+}
+
+@media screen and (min-width:400px){
+    .linkedln{
+        margin-left: 87%;
+        position: absolute;
+        margin-top: 6rem;
+        width: 30px;
+    }
+}
+
+@media screen and (min-width:1023px){
+    .projetos img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+}
+
+@media screen and (min-width:1023px){
+    .front{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+}
+
+@media screen and (min-width:1023px){
+    .ux{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+}
